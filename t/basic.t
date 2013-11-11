@@ -2,7 +2,7 @@ use strict;
 use warnings;
 use Test::More tests => 12;
 use mop;
-use mop::plicease;
+use mopx::pbpaccessor;
 
 class Foo {
   has $!bar is ro;

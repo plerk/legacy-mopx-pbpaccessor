@@ -1,4 +1,4 @@
-package mop::plicease;
+package mopx::pbpaccessor;
 
 use strict;
 use warnings;
@@ -11,7 +11,7 @@ use base qw( Exporter );
 =head1 SYNOPSIS
 
  use mop;
- use mop::plicease;
+ use mopx::pbpaccessor;
  
  class Foo {
    has $!bar is ro;

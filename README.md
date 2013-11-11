@@ -1,11 +1,11 @@
-# mop::plicease
+# mopx::pbpaccessor
 
 Mopish stuff
 
 # SYNOPSIS
 
     use mop;
-    use mop::plicease;
+    use mopx::pbpaccessor;
     
     class Foo {
       has $!bar is ro;
